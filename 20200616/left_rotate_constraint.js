@@ -5,4 +5,4 @@ let rotLeft = function (a, d) {
     }
     return a
 };
-console.log(rotLeft(a, 2));
+console.log(rotLeft(a, 24));
